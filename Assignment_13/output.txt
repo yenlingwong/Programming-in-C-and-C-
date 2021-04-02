@@ -1,0 +1,6 @@
+The sum of both complex numbers: 1+412i
+
+The difference between the first and second complex number: 5+586i
+
+The product of both complex numbers: 43407-1259i
+
